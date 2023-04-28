@@ -1,0 +1,4 @@
+{
+  "extends": "@igorc-ui/ts-config/base.json",
+  "include": ["src"]
+}
