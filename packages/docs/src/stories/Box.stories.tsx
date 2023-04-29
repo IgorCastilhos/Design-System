@@ -1,15 +1,11 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Box, BoxProps } from '@igorc-ui/react'
+import { Box, BoxProps, Text } from '@igorc-ui/react'
 
 export default {
   title: 'Surfaces/Box',
   component: Box,
   args: {
-    children: (
-      <>
-        <span>Testando o elemento Box</span>
-      </>
-    ),
+    children: <Text>Testando o elemento Box</Text>,
   },
 } as Meta<BoxProps>
 
