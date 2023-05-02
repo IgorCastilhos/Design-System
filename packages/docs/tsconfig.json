@@ -1,4 +1,4 @@
 {
-  "extends": "@igorc-ui/ts-config/react.json",
+  "extends": "@ignite-ui/ts-config/react.json",
   "include": ["src", "index.tsx"]
 }

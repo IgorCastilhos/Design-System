@@ -1,5 +1,5 @@
 {
-  "name": "@igorc-ui/tokens",
+  "name": "@ignite-ui/tokens",
   "version": "1.0.0",
   "description": "",
   "main": ",/dist/index.js",
@@ -14,9 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@igorc-ui/ts-config": "*",
-    "@igorc-ui/react": "*",
-    "@igorc-ui/eslint-config": "*",
+    "@ignite-ui/ts-config": "*",
+    "@ignite-ui/eslint-config": "*",
     "tsup": "^6.7.0",
     "typescript": "^5.0.3"
   }
