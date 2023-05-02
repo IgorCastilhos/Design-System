@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@igor-ui/tokens'
+} from '@igor-ui/tokens/src'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const {
