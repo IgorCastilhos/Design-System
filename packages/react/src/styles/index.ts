@@ -1,14 +1,13 @@
-import { createStitches, defaultThemeMap } from '@stitches/react'
-
 import {
   colors,
+  fonts,
   fontSizes,
   fontWeights,
-  fonts,
   lineHeights,
   radii,
   space,
 } from '@igorc-ui/tokens'
+import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const {
   styled,
