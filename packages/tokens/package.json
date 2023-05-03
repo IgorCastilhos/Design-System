@@ -1,8 +1,8 @@
 {
   "name": "@igor-ui/tokens",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "",
-  "main": ",/dist/index.js",
+  "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "scripts": {
@@ -16,7 +16,7 @@
   "devDependencies": {
     "@igor-ui/ts-config": "*",
     "@igor-ui/eslint-config": "*",
-    "tsup": "^6.7.0",
-    "typescript": "^5.0.3"
+    "tsup": "^6.2.3",
+    "typescript": "^4.8.4"
   }
 }

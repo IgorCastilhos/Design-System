@@ -1,4 +1,4 @@
 {
   "extends": "@igor-ui/ts-config/react.json",
-  "include": ["src", "index.tsx"]
+  "include": ["src"]
 }
